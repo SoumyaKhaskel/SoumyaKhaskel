@@ -312,6 +312,8 @@ I enjoy documenting practical experiments, security research, troubleshooting an
 
 [![GitHub](https://img.shields.io/badge/GitHub-Soumyakhaskel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumyakhaskel)
 
+[![Gmail](https://img.shields.io/badge/Gmail-soumyakhaskel21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyakhaskel21@gmail.com)
+
 </div>
 
 ---
