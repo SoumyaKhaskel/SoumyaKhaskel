@@ -22,13 +22,9 @@
 
 <a href="https://tryhackme.com/">
 
-<img src="https://cdn.simpleicons.org/tryhackme" width="55" height="55" alt="TryHackMe" title="TryHackMe"/>
+<img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
-<strong>Top 4%</strong>
 
 </div>
 
@@ -40,29 +36,16 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,aws,docker,kubernetes,terraform,linux,githubactions,react,spring,mysql,mongodb" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<!-- Security Tools -->
-
-<img src="https://cdn.simpleicons.org/owasp" width="48" height="48" alt="OWASP" title="OWASP"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/trivy" width="48" height="48" alt="Trivy" title="Trivy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/semgrep" width="48" height="48" alt="Semgrep" title="Semgrep"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gitleaks" width="48" height="48" alt="Gitleaks" title="Gitleaks"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/burpsuite" width="48" height="48" alt="Burp Suite" title="Burp Suite"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nmap" width="48" height="48" alt="Nmap" title="Nmap"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" alt="Wireshark" title="Wireshark"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux" width="48" height="48" alt="Kali Linux" title="Kali Linux"/>
+<img src="https://img.shields.io/badge/OWASP-Top%2010-111827?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-Container%20Security-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semgrep-SAST-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gitleaks-Secrets%20Detection-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-Network%20Security-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-111827?style=for-the-badge"/>
 
 </div>
 
@@ -313,15 +296,9 @@ I enjoy documenting practical experiments, security research, troubleshooting an
 
 <div align="center">
 
-<a href="https://medium.com/@soumyakhaskel21">
-<img src="https://cdn.simpleicons.org/medium" width="42" height="42" alt="Medium" title="Medium"/>
-</a>
+[![Medium](https://img.shields.io/badge/Medium-Technical%20Writing-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soumyakhaskel21)
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://dev.to/soumya_k19">
-<img src="https://cdn.simpleicons.org/devdotto" width="42" height="42" alt="Dev.to" title="Dev.to"/>
-</a>
+[![Dev.to](https://img.shields.io/badge/Dev.to-Technical%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/soumya_k19)
 
 </div>
 
@@ -331,31 +308,9 @@ I enjoy documenting practical experiments, security research, troubleshooting an
 
 <div align="center">
 
-<a href="mailto:soumyakhaskel21@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" width="50" height="50" alt="Gmail" title="Email me"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaskelsoumya)
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/khaskelsoumya">
-<img src="https://cdn.simpleicons.org/linkedin" width="50" height="50" alt="LinkedIn" title="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/SoumyaKhaskel">
-<img src="https://cdn.simpleicons.org/github" width="50" height="50" alt="GitHub" title="GitHub"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="mailto:soumyakhaskel21@gmail.com">📧 Email Me</a>
-&nbsp;&nbsp; • &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khaskelsoumya">💼 LinkedIn</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Soumyakhaskel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumyakhaskel)
 
 </div>
 
@@ -363,6 +318,6 @@ I enjoy documenting practical experiments, security research, troubleshooting an
 
 <div align="center">
 
-### Secure 🔐 • Automate ⚙️ • Build 🛠️ • Learn 🧠
+### Secure. Automate. Build. Learn.
 
 </div>
