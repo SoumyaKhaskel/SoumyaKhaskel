@@ -10,7 +10,7 @@
 
 ### BUILD • AUTOMATE • SECURE • EXPLORE
 
-**Cybersecurity Engineer focused on cloud security, DevSecOps, security automation, vulnerability management and AI security.**
+**Cybersecurity Engineer focused on cloud security, security automation, DevSecOps, vulnerability management and AI security.**
 
 </div>
 
@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Nmap-Network%20Security-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Management-CVE%20Remediation-111827?style=for-the-badge"/>
 
 </div>
 
