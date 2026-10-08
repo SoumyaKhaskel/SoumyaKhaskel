@@ -85,7 +85,7 @@ and applications
 
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="30%">
   <h3>🟠 EXPLORE</h3>
   <p>AI &amp; LLM<br>security</p>
 </td>
