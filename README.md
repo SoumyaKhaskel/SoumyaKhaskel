@@ -85,7 +85,7 @@ and applications
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
 <h3>🟠 EXPLORE</h3>
 
