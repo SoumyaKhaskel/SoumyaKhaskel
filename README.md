@@ -39,7 +39,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/OWASP-Top%2010-111827?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-LLM%20Top%2010-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP%20LLM%20Top%2010-LLM%20Security-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Trivy-Container%20Security-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Semgrep-SAST-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gitleaks-Secrets%20Detection-111827?style=for-the-badge"/>
