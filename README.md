@@ -58,7 +58,7 @@
 <table width="100%">
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <h3>🟢 BUILD</h3>
 
@@ -67,7 +67,7 @@ pipelines
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <h3>🔵 AUTOMATE</h3>
 
@@ -76,7 +76,7 @@ and monitoring
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <h3>🟣 SECURE</h3>
 
@@ -85,7 +85,7 @@ and applications
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="35%" align="center" valign="top">
 
 <h3>🟠 EXPLORE</h3>
 
