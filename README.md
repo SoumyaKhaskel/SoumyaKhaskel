@@ -88,9 +88,7 @@ and applications
 <td width="40%" align="center" valign="top">
 
 <h3>🟠 EXPLORE</h3>
-
-AI and LLM<br>
-security
+<p>AI &amp; LLM<br>Security</p>
 
 </td>
 
