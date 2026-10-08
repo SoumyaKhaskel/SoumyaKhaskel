@@ -34,8 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,aws,docker,kubernetes,terraform,linux,githubactions,react,spring,mysql,mongodb" />
-
+<img src="https://skillicons.dev/icons?i=python,aws,docker,terraform,linux,githubactions,react,spring,mysql,mongodb,kali,nginx,powershell,fastapi,postgres,sqlite,apple,windows&perline=9" />
 <br><br>
 
 <img src="https://img.shields.io/badge/OWASP-Top%2010-111827?style=for-the-badge&logo=owasp&logoColor=white"/>
