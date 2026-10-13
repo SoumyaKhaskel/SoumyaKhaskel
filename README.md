@@ -264,7 +264,7 @@ A practical network optimization project focused on diagnosing latency spikes an
 
 <div align="center">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=SoumyaKhaskel&commits_year=2026&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=SoumyaKhaskel&include_all_commits=true&commits_year=2026&show_icons=true&theme=github_dark&hide_border=true)" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoumyaKhaskel&include_all_commits=true&commits_year=2026&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaKhaskel&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
