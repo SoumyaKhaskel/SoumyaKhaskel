@@ -118,7 +118,7 @@ and applications
 
 ## 🔒 DevSecOps Security Pipeline
 
-A 5 stage CI/CD security pipeline built with GitHub Actions using automated security scanning, security gates, vulnerability detection and CVE remediation.
+A five-stage CI/CD security pipeline built with GitHub Actions, integrating automated security scanning, security gates, vulnerability detection and CVE remediation.
 
 **Tech:** GitHub Actions • Trivy • Semgrep • Gitleaks • Python • NVD API
 
@@ -128,13 +128,13 @@ A 5 stage CI/CD security pipeline built with GitHub Actions using automated secu
 
 <td width="50%" valign="top">
 
-## 📊 Security Audit Dashboard
+## 🤖 LLM Prompt Injection Detection Tool
 
-A live security observability dashboard that ingests CI/CD security results and provides a weighted security score, findings breakdown and deployment history.
+A security testing tool designed to evaluate LLM safety boundaries using adversarial prompt injection attacks, jailbreak techniques and structured security assessment reports.
 
-**Tech:** Python • Spring Boot • React • PostgreSQL • AWS EC2
+**Tech:** Python • AWS Bedrock • boto3 • YAML • LLM Security
 
-[View Project](https://github.com/SoumyaKhaskel/Cyber-Security)
+[View Project](https://github.com/SoumyaKhaskel/LLM_injection_tester)
 
 </td>
 
@@ -144,30 +144,31 @@ A live security observability dashboard that ingests CI/CD security results and 
 
 <td width="50%" valign="top">
 
-## 🤖 Cybersecurity News Agent
+## 🛡️ Security Operator
 
-An autonomous AI agent that collects cybersecurity news, summarises articles, assigns severity and delivers alerts through Telegram.
+An automation-focused cybersecurity project exploring security operations workflows and tools.
 
-**Tech:** Python • FastAPI • Llama • SQLite • Telegram Bot API
+**Repository:** Python • Security Automation
 
-[View Project](https://github.com/SoumyaKhaskel/cybersec-news-agent)
+[View Project](https://github.com/SoumyaKhaskel/security_operator3)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌐 Network Performance Optimization
+## 🔍 LLM Injection Tester
 
-A practical network optimization project focused on diagnosing latency spikes and improving network performance through packet level analysis and protocol tuning.
+A dedicated project for experimenting with LLM prompt injection testing and evaluating potential weaknesses in AI-driven applications.
 
-**Tech:** QoS • DNS • TCP/IP • MTU • Packet Analysis • Linux
+**Repository:** LLM Security • Prompt Injection Testing
 
-[View Project](https://github.com/SoumyaKhaskel/Network-router-optimization)
+[View Project](https://github.com/SoumyaKhaskel/LLM_injection_tester)
 
 </td>
 
 </tr>
 </table>
+
 
 ---
 
