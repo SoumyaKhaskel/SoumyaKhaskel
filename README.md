@@ -163,15 +163,13 @@ An autonomous AI agent that collects cybersecurity news, summarises articles, as
 
 ## 🛡️ Security Operator
 
-An automation-focused cybersecurity project exploring security operations workflows and tools.
+An automation-focused cybersecurity project exploring security operations workflows and tools via three AI agents working together including human in loop.
 
-**Repository:** Python • Security Automation
+**Tech:** Python • SQLite • FastAPI • Agentic AI Agents work automation
 
 [View Project](https://github.com/SoumyaKhaskel/security_operator3)
 
 </td>
-
-<td width="50%" valign="top">
 
 </tr>
 </table>
