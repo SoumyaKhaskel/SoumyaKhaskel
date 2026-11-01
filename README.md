@@ -161,7 +161,7 @@ An autonomous AI agent that collects cybersecurity news, summarises articles, as
 
 <td width="50%" valign="top">
 
-## 🛡️ Security Operator
+## 🛡️AI Security Operator
 
 An automation-focused cybersecurity project exploring security operations workflows and tools via three AI agents working together including human in loop.
 
