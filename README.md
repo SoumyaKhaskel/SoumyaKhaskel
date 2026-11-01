@@ -34,11 +34,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,aws,docker,terraform,linux,githubactions,react,spring,mysql,mongodb,kali,nginx,powershell,fastapi,postgres,sqlite,apple,windows&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,aws,docker,kubernetes,terraform,linux,githubactions,react,spring,mysql,mongodb" />
+
 <br><br>
 
 <img src="https://img.shields.io/badge/OWASP-Top%2010-111827?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP%20LLM%20Top%2010-LLM%20Security-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-LLM%20Top%2010-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Trivy-Container%20Security-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Semgrep-SAST-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gitleaks-Secrets%20Detection-111827?style=for-the-badge"/>
@@ -54,10 +55,10 @@
 
 ## 🔐 What I Work On
 
-<table width="120%">
+<table width="100%">
 <tr>
 
-<td width="30%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <h3>🟢 BUILD</h3>
 
@@ -66,7 +67,7 @@ pipelines
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <h3>🔵 AUTOMATE</h3>
 
@@ -75,7 +76,7 @@ and monitoring
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <h3>🟣 SECURE</h3>
 
@@ -84,9 +85,13 @@ and applications
 
 </td>
 
-<td align="center" valign="top" width="30%">
-  <h3>🟠 EXPLORE</h3>
-  <p>AI &amp; LLM<br>security</p>
+<td width="25%" align="center" valign="top">
+
+<h3>🟠 EXPLORE</h3>
+
+AI and LLM<br>
+security
+
 </td>
 
 </tr>
@@ -118,7 +123,7 @@ and applications
 
 ## 🔒 DevSecOps Security Pipeline
 
-A five-stage CI/CD security pipeline built with GitHub Actions, integrating automated security scanning, security gates, vulnerability detection and CVE remediation.
+A 5 stage CI/CD security pipeline built with GitHub Actions using automated security scanning, security gates, vulnerability detection and CVE remediation.
 
 **Tech:** GitHub Actions • Trivy • Semgrep • Gitleaks • Python • NVD API
 
@@ -128,19 +133,31 @@ A five-stage CI/CD security pipeline built with GitHub Actions, integrating auto
 
 <td width="50%" valign="top">
 
-## 🤖 LLM Prompt Injection Detection Tool
+## 📊 Security Audit Dashboard
 
-A security testing tool designed to evaluate LLM safety boundaries using adversarial prompt injection attacks, jailbreak techniques and structured security assessment reports.
+A live security observability dashboard that ingests CI/CD security results and provides a weighted security score, findings breakdown and deployment history.
 
-**Tech:** Python • AWS Bedrock • boto3 • YAML • LLM Security
+**Tech:** Python • Spring Boot • React • PostgreSQL • AWS EC2
 
-[View Project](https://github.com/SoumyaKhaskel/LLM_injection_tester)
+[View Project](https://github.com/SoumyaKhaskel/Cyber-Security)
 
 </td>
 
 </tr>
 
 <tr>
+
+<td width="50%" valign="top">
+
+## 🤖 Cybersecurity News Agent
+
+An autonomous AI agent that collects cybersecurity news, summarises articles, assigns severity and delivers alerts through Telegram.
+
+**Tech:** Python • FastAPI • Llama • SQLite • Telegram Bot API
+
+[View Project](https://github.com/SoumyaKhaskel/cybersec-news-agent)
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -156,19 +173,8 @@ An automation-focused cybersecurity project exploring security operations workfl
 
 <td width="50%" valign="top">
 
-## 🔍 LLM Injection Tester
-
-A dedicated project for experimenting with LLM prompt injection testing and evaluating potential weaknesses in AI-driven applications.
-
-**Repository:** LLM Security • Prompt Injection Testing
-
-[View Project](https://github.com/SoumyaKhaskel/LLM_injection_tester)
-
-</td>
-
 </tr>
 </table>
-
 
 ---
 
@@ -265,7 +271,7 @@ A dedicated project for experimenting with LLM prompt injection testing and eval
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoumyaKhaskel&include_all_commits=true&commits_year=2026&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoumyaKhaskel&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaKhaskel&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
